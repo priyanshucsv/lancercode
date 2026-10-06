@@ -887,7 +887,6 @@ The primary question on every screen is:
 
 # ✦ Screenshots
 
-Add product screenshots here as the interface evolves.
 
 ### Landing Page
 
