@@ -892,74 +892,20 @@ Add product screenshots here as the interface evolves.
 ### Landing Page
 
 <p align="center">
-  <img src="./docs/screenshots/landing.png" alt="Lancer Code landing page" width="900">
+  <img src="landing.png" alt="Lancer Code landing page" width="900">
 </p>
 
 ### Opportunity Brief
 
 <p align="center">
-  <img src="./docs/screenshots/opportunity.png" alt="Lancer Code opportunity brief" width="900">
+  <img src="opportunity.png" alt="Lancer Code opportunity brief" width="900">
 </p>
 
 ### Lead Pipeline
 
 <p align="center">
-  <img src="./docs/screenshots/pipeline.png" alt="Lancer Code lead pipeline" width="900">
+  <img src="pipeline.png" alt="Lancer Code lead pipeline" width="900">
 </p>
-
----
-
-# ✦ Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/lancer-code.git
-cd lancer-code
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Create your environment file:
-
-```bash
-cp .env.example .env.local
-```
-
-Add the required environment variables.
-
-Then start the development server:
-
-```bash
-npm run dev
-```
-
-Open:
-
-```text
-http://localhost:3000
-```
-
----
-
-# ✦ Environment Variables
-
-Create a `.env.local` file containing the required configuration.
-
-Example:
-
-```env
-DATABASE_URL=
-NEXT_PUBLIC_APP_URL=
-```
-
-Additional variables may be required depending on the enabled discovery, authentication and data services.
-
-**Never commit real secrets to Git.**
 
 ---
 
